@@ -1,2 +1,3 @@
-# nova-code-reviewer-0znz
-A repository to test GitHub automation for issue management
+# Nova Code Reviewer 0Znz
+
+A repository to test GitHub automation for issue management.
